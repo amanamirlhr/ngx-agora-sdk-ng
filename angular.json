@@ -67,8 +67,7 @@
               "projects/demo/src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": [
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -162,5 +161,8 @@
       }
     }
   },
-  "defaultProject": "ngx-agora-sdk-ng"
+  "defaultProject": "ngx-agora-sdk-ng",
+  "cli": {
+    "analytics": "24982752-0881-4d99-926f-108571b7d4bb"
+  }
 }

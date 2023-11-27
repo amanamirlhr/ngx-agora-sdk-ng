@@ -30,6 +30,8 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "agora-rtc-sdk-ng": "^4.1.1",
     "bootstrap": "^4.5.3",
+    "define-property": "^2.0.2",
+    "ngx-agora-sdk-ng": "^1.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "uuid": "^8.3.2",
